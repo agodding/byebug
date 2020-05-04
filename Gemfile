@@ -14,4 +14,4 @@ gem "rexml", "~> 3.2" # TODO: remove when https://github.com/gettalong/kramdown/
 gem "rubocop", "0.82.0"
 gem "rubocop-performance", "~> 1.3"
 gem "simplecov", "0.18.5"
-gem "yard", "0.9.24"
+gem "yard", "0.9.25"
